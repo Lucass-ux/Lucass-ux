@@ -4,7 +4,7 @@
 
 Sou **estudante de Sistemas de Informação na PUC Minas**, com forte interesse em **desenvolvimento de software** e foco inicial em **C#** e aplicações web. Busco **oportunidade de estágio em programação**, onde eu possa contribuir com código, aprender boas práticas e evoluir tecnicamente em um ambiente profissional.
 
-Tenho perfil **proativo**, boa base em **lógica e estruturas de dados** e experiência prática em projetos acadêmicos e pessoais.
+Tenho perfil **proativo**, boa base em **lógica e estruturas de dados** e experiência prática em projetos acadêmicos.
 
 ---
 
