@@ -25,7 +25,7 @@ Atuar como **estagiário em desenvolvimento de software**, com interesse em:
 * C#
 * JavaScript (básico)
 * TypeScript (básico)
-* HTML5 e CSS3
+* HTML5 e CSS3 (básico)
 
 **Fundamentos**
 
@@ -38,7 +38,6 @@ Atuar como **estagiário em desenvolvimento de software**, com interesse em:
 * Git / Controle de versão
 * Vue.js (básico)
 * JSON Server
-* Mapbox (integração com mapas)
 
 ---
 
@@ -72,7 +71,7 @@ Projeto web para criação e visualização de **roteiros de viagem**, desenvolv
 
 **Destaques técnicos:**
 
-* Consumo de API REST simulada com **JSON Server**
+* Consumo de API simulada com **JSON Server**
 * Manipulação dinâmica do DOM
 * Interface responsiva e orientada ao usuário
 
@@ -101,20 +100,6 @@ Aplicação completa de controle de estoque, envolvendo front-end, back-end e pe
 * Integração entre front-end e back-end
 
 * Organização de projeto e boas práticas de código
-
- *Veja o repositório*
-
----
-
-### Jogo Rouba Montes — C#
-
-Implementação de um **jogo de cartas em C#**, com foco em **lógica de programação**, **estruturas de dados** e organização do código.
-
-**O que foi aplicado:**
-
-* Programação orientada a objetos
-* Controle de fluxo e regras de negócio
-* Estruturas de dados para gerenciamento do jogo
 
  *Veja o repositório*
 
