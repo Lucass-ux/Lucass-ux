@@ -65,7 +65,7 @@ Aplicação web desenvolvida com **HTML, CSS e JavaScript**, simulando um sistem
 
 ---
 
-### Site de Roteiros de Viagem
+### Site de Roteiros de Viagem (projeto em grupo)
 
 Projeto web para criação e visualização de **roteiros de viagem**, desenvolvido com **HTML, CSS e JavaScript**.
 
@@ -75,11 +75,16 @@ Projeto web para criação e visualização de **roteiros de viagem**, desenvolv
 * Manipulação dinâmica do DOM
 * Interface responsiva e orientada ao usuário
 
+**Competências demonstradas:**
+
+* Trabalho em equipe
+* Organização de código front-end
+  
  *Veja o repositório*
 
 ---
 
-### Sistema de Controle de Estoque
+### Sistema de Controle de Estoque (projeto em grupo)
 
 Aplicação completa de controle de estoque, envolvendo front-end, back-end e persistência de dados, com foco em organização, escalabilidade e boas práticas de desenvolvimento.
 
@@ -93,7 +98,7 @@ Aplicação completa de controle de estoque, envolvendo front-end, back-end e pe
 
 **Competências demonstradas:**
 
-* Desenvolvimento full stack
+* Colaboração em equipe
 
 * Modelagem de dados
 
