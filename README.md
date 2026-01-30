@@ -2,17 +2,16 @@
 
 ## Olá, eu sou o Lucas 
 
-Sou **estudante de Sistemas de Informação na PUC Minas**, com forte interesse em **desenvolvimento de software** e foco inicial em **C#** e aplicações web. Busco **oportunidade de estágio em programação**, onde eu possa contribuir com código, aprender boas práticas e evoluir tecnicamente em um ambiente profissional.
+Sou estudante de Sistemas de Informação na PUC Minas, com forte interesse em desenvolvimento de software e aplicações web. Busco oportunidade de estágio em programação, onde eu possa contribuir com código, aprender boas práticas e evoluir tecnicamente em um ambiente profissional.
 
-Tenho perfil **proativo**, boa base em **lógica e estruturas de dados** e experiência prática em projetos acadêmicos.
+Tenho perfil proativo, boa base em lógica e estruturas de dados e experiência prática em projetos acadêmicos.
 
 ---
 
 ## Objetivo Profissional
 
-Atuar como **estagiário em desenvolvimento de software**, com interesse em:
+Atuar como estagiário em desenvolvimento de software, com interesse em:
 
-* Desenvolvimento backend com **C#**
 * Desenvolvimento web
 * Boas práticas de código, versionamento e trabalho em equipe
 
@@ -45,15 +44,15 @@ Atuar como **estagiário em desenvolvimento de software**, com interesse em:
 
 ### Guia Turístico Web
 
-Aplicação web desenvolvida com **HTML, CSS e JavaScript**, simulando um sistema completo de guia turístico.
+Aplicação web desenvolvida com HTML, CSS e JavaScript, simulando um sistema completo de guia turístico.
 
 **Funcionalidades principais:**
 
-* Mapas interativos utilizando **Mapbox**
-* Sistema de **login e cadastro** de usuários
-* **Pesquisa** de pontos turísticos
-* Sistema de **favoritos**
-* Backend simulado com **JSON Server**
+* Mapas interativos utilizando Mapbox
+* Sistema de login e cadastro de usuários
+* Pesquisa de pontos turísticos
+* Sistema de favoritos
+* Backend simulado com JSON Server
 
 **Competências demonstradas:**
 
@@ -67,11 +66,11 @@ Aplicação web desenvolvida com **HTML, CSS e JavaScript**, simulando um sistem
 
 ### Site de Roteiros de Viagem (projeto em grupo)
 
-Projeto web para criação e visualização de **roteiros de viagem**, desenvolvido com **HTML, CSS e JavaScript**.
+Projeto web para criação e visualização de roteiros de viagem, desenvolvido com HTML, CSS e JavaScript.
 
 **Destaques técnicos:**
 
-* Consumo de API simulada com **JSON Server**
+* Consumo de API simulada com JSON Server
 * Manipulação dinâmica do DOM
 * Interface responsiva e orientada ao usuário
 
@@ -112,7 +111,7 @@ Aplicação completa de controle de estoque, envolvendo front-end, back-end e pe
 
 ## Idiomas
 
-* Inglês
+* Inglês (Intermediário)
 
 ---
 
