@@ -59,9 +59,6 @@ Aplicação web desenvolvida com HTML, CSS e JavaScript, simulando um sistema co
 * Integração com APIs
 * Manipulação de dados
 * Organização de código front-end
-
- *Veja o repositório*
-
 ---
 
 ### Site de Roteiros de Viagem (projeto em grupo)
@@ -78,9 +75,6 @@ Projeto web para criação e visualização de roteiros de viagem, desenvolvido 
 
 * Trabalho em equipe
 * Organização de código front-end
-  
- *Veja o repositório*
-
 ---
 
 ### Sistema de Controle de Estoque (projeto em grupo)
@@ -105,20 +99,13 @@ Aplicação completa de controle de estoque, envolvendo front-end, back-end e pe
 
 * Organização de projeto e boas práticas de código
 
- *Veja o repositório*
-
 ---
 
 ## Idiomas
 
 * Inglês (Intermediário)
-
 ---
 
 ## Contato
 
 * LinkedIn: [https://www.linkedin.com/in/lucas-gomes-280aa739a](https://www.linkedin.com/in/lucas-gomes-280aa739a)
-
----
-
- *Perfil focado em oportunidades de estágio e crescimento profissional em desenvolvimento de software.*
