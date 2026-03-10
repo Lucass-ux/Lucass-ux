@@ -1,6 +1,6 @@
 # Lucas Loiolla Gomes
 
-* Estudante de Sistemas de Informação – PUC Minas  
+* Estudante de Sistemas de Informação - 3º Período – PUC Minas  
 * Interessado em desenvolvimento de software e aplicações web  
 * Buscando oportunidade de estágio em programação  
 
