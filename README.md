@@ -5,6 +5,7 @@ Interessado em desenvolvimento de software e aplicações web
 Buscando oportunidade de estágio em programação
 
 Tenho interesse em desenvolvimento backend e web, com foco em boas práticas de código, lógica de programação e construção de aplicações organizadas e escaláveis.
+
 ---
 
 ## Tecnologias
