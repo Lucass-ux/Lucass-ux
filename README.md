@@ -30,22 +30,27 @@ Tenho interesse em desenvolvimento backend e web, com foco em boas práticas de 
 ### Biblioteca API
 
 API REST para gerenciamento de livros e gêneros desenvolvida com ASP.NET Core, seguindo princípios de Clean Architecture.  
-🔗 https://github.com/Lucass-ux/BibliotecaAPI
+* https://github.com/Lucass-ux/BibliotecaAPI
 
 ### TurisTop - Guia Turístico Web
 
 Aplicação web que simula um guia turístico com CRUD, JSON Server e outras funcionalidades.  
-🔗 https://github.com/Lucass-ux/TrabalhoPratico-SI-PucMinas
+* https://github.com/Lucass-ux/TrabalhoPratico-SI-PucMinas
 
 ### SmartTravel - Roteiros de Viagem 
 
 Projeto web desenvolvido em grupo para criação e visualização de roteiros de viagem.  
-🔗 https://github.com/Lucass-ux/psg-si-SmartTravel
+* https://github.com/Lucass-ux/psg-si-SmartTravel
 
 ### Trem De Controle - Sistema de Controle de Estoque 
 
 Aplicação desenvolvida em grupo utilizando **TypeScript e Vue.js**.  
-🔗 https://github.com/Lucass-ux/psg-si-2025-2-fsi-manh-fundamentos-si-grupo-1
+* https://github.com/Lucass-ux/psg-si-2025-2-fsi-manh-fundamentos-si-grupo-1
+
+### Rouba Montes
+
+Implementação de uma versão modificada do jogo de cartas "rouba montes".
+* https://github.com/Lucass-ux/psg-aed-tp-2025-manha-rouba-montes
 
 ---
 
