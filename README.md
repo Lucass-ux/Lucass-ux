@@ -47,11 +47,6 @@ Projeto web desenvolvido em grupo para criação e visualização de roteiros de
 Aplicação desenvolvida em grupo utilizando **TypeScript e Vue.js**.  
 * https://github.com/Lucass-ux/psg-si-2025-2-fsi-manh-fundamentos-si-grupo-1
 
-### Rouba Montes
-
-Implementação de uma versão modificada do jogo de cartas "rouba montes".
-* https://github.com/Lucass-ux/psg-aed-tp-2025-manha-rouba-montes
-
 ---
 
 ## Idiomas
