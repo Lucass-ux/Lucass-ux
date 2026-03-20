@@ -53,4 +53,10 @@ Aplicação desenvolvida em grupo utilizando **TypeScript e Vue.js**.
 
 Inglês — Intermediário
 
+---
+
+## Contato
+
+LinkedIn  
+https://www.linkedin.com/in/lucas-gomes-280aa739a
 
