@@ -53,5 +53,4 @@ Aplicação desenvolvida em grupo utilizando **TypeScript e Vue.js**.
 
 Inglês — Intermediário
 
----
 
