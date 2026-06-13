@@ -15,6 +15,7 @@ Tenho interesse em desenvolvimento backend e web, com foco em boas práticas de 
 * JavaScript
 * TypeScript
 * HTML5 / CSS3
+* SQL
 
 **Frameworks e Ferramentas**
 
@@ -24,6 +25,11 @@ Tenho interesse em desenvolvimento backend e web, com foco em boas práticas de 
 * JSON Server
 * Node.js
 ---
+
+## Conceitos
+* Lógica de Programação
+* Programação Orientada a Objetos
+* Estruturas de Dados
 
 ## Projetos
 
@@ -39,7 +45,7 @@ Aplicação web que simula um guia turístico com CRUD, JSON Server e outras fun
 
 ### SmartTravel - Roteiros de Viagem 
 
-Projeto web desenvolvido em grupo para criação e visualização de roteiros de viagem.  
+Projeto web desenvolvido no 1º período em grupo para criação e visualização de roteiros de viagem.  
 * [SmartTravel](https://github.com/Lucass-ux/psg-si-SmartTravel)
 
 ### Trem De Controle - Sistema de Controle de Estoque 
@@ -58,5 +64,5 @@ Inglês — Intermediário
 ## Contato
 
 LinkedIn  
-https://www.linkedin.com/in/lucas-gomes-280aa739a
+https://www.linkedin.com/in/lucas-loiolla-gomes-280aa739a
 
