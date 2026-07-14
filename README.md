@@ -36,6 +36,11 @@ Busco oportunidade de estágio na área de desenvolvimento para evoluir tecnicam
 
 ## Projetos
 
+### Trem De Controle - Sistema de Controle de Estoque 
+
+Aplicação desenvolvida em grupo utilizando **TypeScript e Vue.js**.  
+* [TremDeControle](https://github.com/Lucass-ux/TremDeControle-2-periodo)
+  
 ### BibliotecaAPI - API REST para gerenciamento de biblioteca
 
 API desenvolvida utilizando **ASP.NET Core, C#, Entity Framework Core, MySQL e Clean Architecture**, com operações CRUD para gerenciamento de livros e documentação via Swagger.
@@ -50,11 +55,6 @@ Aplicação web que simula um guia turístico com CRUD, JSON Server e outras fun
 
 Projeto web desenvolvido no 1º período em grupo para criação e visualização de roteiros de viagem.  
 * [SmartTravel](https://github.com/Lucass-ux/psg-si-SmartTravel)
-
-### Trem De Controle - Sistema de Controle de Estoque 
-
-Aplicação desenvolvida em grupo utilizando **TypeScript e Vue.js**.  
-* [TremDeControle](https://github.com/Lucass-ux/TremDeControle-2-periodo)
   
 ---
 
