@@ -36,6 +36,11 @@ Busco oportunidade de estágio na área de desenvolvimento para evoluir tecnicam
 
 ## Projetos
 
+### BibliotecaAPI - API REST para gerenciamento de biblioteca
+
+API desenvolvida utilizando **ASP.NET Core, C#, Entity Framework Core, MySQL e Clean Architecture**, com operações CRUD para gerenciamento de livros e documentação via Swagger.
+* [BibliotecaAPI](https://github.com/Lucass-ux/BibliotecaAPI)
+
 ### TurisTop - Guia Turístico Web
 
 Aplicação web que simula um guia turístico com CRUD, JSON Server e outras funcionalidades.  
