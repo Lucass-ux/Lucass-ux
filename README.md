@@ -55,10 +55,6 @@ Projeto web desenvolvido no 1º período em grupo para criação e visualizaçã
 
 Aplicação desenvolvida em grupo utilizando **TypeScript e Vue.js**.  
 * [TremDeControle](https://github.com/Lucass-ux/TremDeControle-2-periodo)
-### Bookly - Sistema web completo para automação de processos em bibliotecas, com controle de empréstimos, cadastro de acervo e consulta pública. 
-
-Aplicação desenvolvida em grupo utilizando **Html, css, JavaScript e Java**.  
-* [Bookly](https://github.com/Lucass-ux/Bookly-3-periodo)
   
 ---
 
