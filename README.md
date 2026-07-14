@@ -1,6 +1,6 @@
 # Lucas Loiolla Gomes
 
-*Estudante de Sistemas de Informação | Desenvolvimento de Software | Backend e Web | C# | TypeScript | Git/GitHub
+## Estudante de Sistemas de Informação | Desenvolvimento de Software | Backend e Web | C# | TypeScript | Git/GitHub
 
 Estudante de Sistemas de Informação na PUC Minas, atualmente no 4º período, com interesse em desenvolvimento de software, backend e aplicações web.
  
