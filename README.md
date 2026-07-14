@@ -1,6 +1,6 @@
 # Lucas Loiolla Gomes
 
-### Estudante de Sistemas de Informação | Desenvolvimento de Software | Backend e Web | C# | TypeScript | Git/GitHub
+## Estudante de Sistemas de Informação | Desenvolvimento de Software | Backend e Web | C# | TypeScript | Git/GitHub
 
 Estudante de Sistemas de Informação na PUC Minas, atualmente no 4º período, com interesse em desenvolvimento de software, backend e aplicações web.
  
@@ -35,11 +35,6 @@ Busco oportunidade de estágio na área de desenvolvimento para evoluir tecnicam
 * Estruturas de Dados
 
 ## Projetos
-
-### Biblioteca API
-
-API REST para gerenciamento de livros e gêneros desenvolvida com ASP.NET Core, seguindo princípios de Clean Architecture.  
-* [BibliotecaAPI](https://github.com/Lucass-ux/BibliotecaAPI)
 
 ### TurisTop - Guia Turístico Web
 
